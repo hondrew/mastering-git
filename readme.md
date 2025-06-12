@@ -1,5 +1,4 @@
-## i love this repo -devA
-
+## Welcome to my GitHub Repo - devB.
 - This feature is from devA
 - This feature is from devB
 
